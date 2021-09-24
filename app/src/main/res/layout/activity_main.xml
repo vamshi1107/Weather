@@ -59,6 +59,7 @@
             android:orientation="horizontal"
             >
             <EditText
+                android:textColor="@color/black"
                 android:background="@drawable/input_shape"
                 android:id="@+id/city"
                 android:layout_width="0dp"
